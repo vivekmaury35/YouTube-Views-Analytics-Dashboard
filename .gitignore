@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+env/
+.venv/
+
+# Node / React
+node_modules/
+dist/
+build/
+.npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+
+# Project specific
+*.log
+*.pid
+yt_analyzer.db
+.claude/
+graphify-out/
+run_graphify.py
+
+# OS generated files
+.DS_Store
+Thumbs.db
